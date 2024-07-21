@@ -13,8 +13,10 @@ This manuscript proposes a deep ensemble learning method based sensor for flotat
 2、因为先引用图10，后引用图9，所以两个图的顺序应该互换，以确保它们的外观与它们的引用顺序一致。
 3、表格和图形中的缩略语应贯穿全文，或作者在这些缩略语首次出现时提供文献参考，如AVR(表2)和MCTF(表3)。
 4、` McSV `(第399行)和` McSV `(表3)应该是相同的缩写。
-5、请解释为什么此方法只适用于浮选泡沫图像的识别。以上翻译结果来自有道神经网络翻译（YNMT）· 计算机
- 
+5、请解释为什么此方法只适用于浮选泡沫图像的识别。以上翻译结果来自有道神经网络翻译（YNMT）
+
+
+ 
 The paper presents a deep ensemble learning-based sensor designed for flotation froth image recognition. This sensor aims to assist operators in adjusting chemical dosages during the mineral separation process by providing accurate recognition of flotation froth working conditions. The authors use a combination of pre-trained deep neural networks (ViT, Swin Transformer, and EfficientNet) and propose a membership function along with TOPSIS based on F1 score to enhance the recognition accuracy. The methodology is validated with real industrial data from a gold-antimony flotation application, showing significant improvements over traditional methods.
 
  
